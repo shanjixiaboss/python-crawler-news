@@ -1,3 +1,1 @@
-#### crawler cms news add 
-#### insert db
-#### save json files
+##### 爬取农业相关新闻，洗下数据，修改内容更新到微信公众号
